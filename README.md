@@ -20,6 +20,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 3. Insira o valor total da conta no campo apropriado.
 4. Selecione a porcentagem de gorjeta desejada.
 5. O resultado será exibido automaticamente abaixo, mostrando o valor da gorjeta e o total a ser pago.
+6. Link para acessar a calculadora no seu navegador web [CALCULADORA](https://ronaldodev42.github.io/CALCULADORA-DE-GORJETA.github.io/).
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste projeto, fazer as alterações que desejar e enviar um pull request.
